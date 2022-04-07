@@ -1,0 +1,11 @@
+# Preface {.unnumbered}
+
+This is a Quarto book for teaching time series econometrics and financial machine learning. This is my first attempt at authoring and econometrics book. It is an evolving collection my learning experience from twelve in teaching and applying econometrics (and more generally statistical learning). It is far from a complete text on the subject would will serve as a useful guide for my students and perhaps some of my colleagues.
+
+The material is pitched at a graduate level, but there are some primers to reinvigorate the memory cells that hold those introductory classes in statistical.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
